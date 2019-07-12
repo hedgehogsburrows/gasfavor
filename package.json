@@ -1,5 +1,5 @@
 {
-  "name": "_gasenv",
+  "name": "gasenv",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,13 +10,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@google/clasp": "^2.1.0",
-    "@types/google-apps-script": "0.0.47",
+    "@google/clasp": "^2.2.1",
+    "@types/google-apps-script": "0.0.54",
     "eslint": "^5.16.0",
     "eslint-config-google": "^0.13.0",
-    "eslint-config-prettier": "^4.2.0",
-    "eslint-plugin-googleappsscript": "^1.0.1",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-googleappsscript": "^1.0.2",
     "eslint-plugin-prettier": "^3.1.0",
-    "prettier": "^1.17.1"
+    "prettier": "^1.18.2"
   }
 }

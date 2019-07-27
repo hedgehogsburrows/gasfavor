@@ -1,0 +1,45 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "sheets": {
+    "macros": [{
+      "menuName": "bing bong",
+      "functionName": "bingbong"
+    }, {
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }, {
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }, {
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }, {
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }, {
+      "menuName": "Untitled Macro 1",
+      "functionName": "UntitledMacro1"
+    }, {
+      "menuName": "Untitled Macro 2",
+      "functionName": "UntitledMacro2"
+    }, {
+      "menuName": "Untitled Macro 3",
+      "functionName": "UntitledMacro3"
+    }, {
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }, {
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }, {
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }, {
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }]
+  }
+}
